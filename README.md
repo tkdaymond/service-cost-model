@@ -2,7 +2,12 @@
 
 A browser app for building a cost formula visually and exporting it to Excel as a live formula.
 
-## Run
+## Download
+
+**[Get the latest release](https://github.com/tkdaymond/service-cost-model/releases/latest)**: download
+`Service-Cost-Model.html` and double-click it to open it in Chrome or Edge. No installation needed.
+
+## Run from source
 
 ```bash
 npm install
