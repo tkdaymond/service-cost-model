@@ -2,6 +2,8 @@
 
 A browser app for building a cost formula visually and exporting it to Excel as a live formula.
 
+![Service Cost Model in Test mode, showing each step's value and the resulting formula](docs/screenshot.png)
+
 ## Download
 
 **[Get the latest release](https://github.com/tkdaymond/service-cost-model/releases/latest)**: download
