@@ -1,7 +1,7 @@
 # Service Cost Model
 
 Browser-only React app: build a cost formula on a node canvas, test it, and export it to Excel as a live formula.
-No backend. Owner is new to GitHub, so explain git and GitHub steps in plain language.
+No backend.
 
 - User docs: `docs/USER_GUIDE.md`. Decisions and their reasons: `docs/DESIGN_NOTES.md`. Read the design notes
   before changing calculation, export or storage behaviour.
